@@ -2,7 +2,7 @@
 #new 
 
 Deep Learning Specialisation
-Instructor: Andrew Ng
+Instructor: 
 
 This repository contains all the solutions of the programming assignments along with few output images. It also has some of the important papers which are referred during the course.
 
@@ -86,12 +86,11 @@ Week2 - Programming Assignment 2 - Emojify
 Week3 - Programming Assignment 1 - Neural Machine translation with attention
 Week3 - Programming Assignment 2 - Trigger word detection
 IMPORTANT PAPERS
-AlexNet
-VGG
-Inception
-ResNet
-YOLO
-YOLO9000
-DeepFace
-FaceNet
-Neural Style Transfer
+1. AlexNet
+2. VGG
+3. Inception
+4.ResNet
+5.YOLO
+6.DeepFace
+7.FaceNet
+
